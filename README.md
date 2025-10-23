@@ -6,6 +6,3 @@
 * **section 3**: Μελέτη Περίπτωσης Παλινδρόμησης
 * **section 4**: Συσταδοποίηση (Clustering)_Μέρος Α
 * **section 5**:  Συσταδοποίηση (Clustering)_Μέρος B  
-
-
-*Italics example*
